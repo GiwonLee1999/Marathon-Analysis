@@ -24,8 +24,8 @@ This repository contains an analysis of marathon data to explore patterns and tr
 
 5. **Results and Visualization**: The findings were visualized through various charts and graphs to make the insights easy to interpret. These visualizations highlight trends and outliers in the data.
 
-## Plots with Seaborn
+### Example Plot
 
-- ![Overview Heatmap](https://github.com/GiwonLee1999/Marathon-Analysis/tree/main/EDA/plot1.png)
+![Marathon EDA Plot](https://github.com/GiwonLee1999/Marathon-Analysis/blob/main/EDA/plot1.png)
 
-- ![Overview Heatmap](https://github.com/GiwonLee1999/Marathon-Analysis/tree/main/EDA/plot2.png)
+![Marathon EDA Plot](https://github.com/GiwonLee1999/Marathon-Analysis/blob/main/EDA/plot2.png)
